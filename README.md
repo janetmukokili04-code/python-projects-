@@ -4,4 +4,4 @@ Student Number:2024076429
 
 Program of Study:ICT Pure
 
-Hobbies:Reading, Coding
+Hobbies:Reading and Coding
